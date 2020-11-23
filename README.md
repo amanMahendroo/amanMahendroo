@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/31vsn2eqpcluxszyi67cwegjfday)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vsn2eqpcluxszyi67cwegjfday&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=31vsn2eqpcluxszyi67cwegjfday&redirect=true)
 
 ### Connect with me:
 
