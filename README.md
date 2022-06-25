@@ -1,10 +1,10 @@
 ### Hi there, I'm Aman! 👋
 
-## I'm a 19 year old front-end developer, machine learning enthusiast and computer engineering student!!
+## I'm a 20 year old front-end developer, machine learning enthusiast and computer engineering student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
